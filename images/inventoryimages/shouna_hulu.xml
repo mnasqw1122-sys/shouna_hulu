@@ -1,0 +1,6 @@
+<Atlas>
+    <Texture filename="shouna_hulu.tex" />
+    <Elements>
+        <Element name="shouna_hulu.tex" u1="0" u2="1" v1="0" v2="1" />
+    </Elements>
+</Atlas>
